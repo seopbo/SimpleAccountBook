@@ -1,4 +1,4 @@
-#include "../include/DataAnalysis.h"
+#include "DataAnalysis.h"
 #include <iostream>
 
 using namespace std;

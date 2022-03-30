@@ -1,4 +1,4 @@
-#include "../include/YearlyAnalysis.h"
+#include "YearlyAnalysis.h"
 
 bool YearlyAnalysis::isTargetData(string date) {
     bool res = false;

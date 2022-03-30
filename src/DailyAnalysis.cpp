@@ -1,4 +1,4 @@
-#include "../include/DailyAnalysis.h"
+#include "DailyAnalysis.h"
 
 bool DailyAnalysis::isTargetData(string date) {
     bool res = false;

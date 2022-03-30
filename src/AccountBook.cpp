@@ -1,6 +1,6 @@
 #include <iostream>
-#include "../include/AccountBook.h"
-#include "../include/DataAnalysis.h"
+#include "AccountBook.h"
+#include "DataAnalysis.h"
 #include <string>
 
 using namespace std;

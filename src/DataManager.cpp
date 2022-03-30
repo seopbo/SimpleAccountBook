@@ -1,4 +1,4 @@
-#include "../include/DataManager.h"
+#include "DataManager.h"
 #include <iostream>
 #include <fstream>
 #include <sstream>

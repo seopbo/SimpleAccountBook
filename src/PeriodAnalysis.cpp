@@ -1,4 +1,4 @@
-#include "../include/PeriodAnalysis.h"
+#include "PeriodAnalysis.h"
 
 bool PeriodAnalysis::isTargetData(string date) {
     bool res = false;

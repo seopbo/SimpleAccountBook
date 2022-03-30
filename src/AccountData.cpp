@@ -1,4 +1,4 @@
-#include "../include/AccountData.h"
+#include "AccountData.h"
 
 AccountData::AccountData(string date, DATA_TYPE type, int amount, string name, string category) {
     this->date = date;
